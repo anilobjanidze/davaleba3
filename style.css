@@ -1,0 +1,23 @@
+.logo12 img{
+	width: 100px
+}
+.logo12{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.PS{
+	width:1000PX
+}
+ul {
+	list-style: none;
+}
+.navigation-li{
+	display: inline-block;
+	margin-right: 30px
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15px
+}
